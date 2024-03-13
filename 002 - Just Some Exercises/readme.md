@@ -1,1 +1,1 @@
-Just Some Exercises i made in school today, in exercise 1 there is a coin buyer with fixed values (not usable IRL), in exercise 2 is just to train switching variables and in exercise 3 it says the predecessor, sucessor and power of the number you choose.
+Just Some Exercises i made in school today, in exercise 1 there is a coin buyer with fixed values (not usable IRL), in exercise 2 is just to train switching variables and in exercise 3 it says the predecessor, sucessor and power of the number you choose. 📖
