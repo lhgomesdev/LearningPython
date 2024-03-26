@@ -25,7 +25,7 @@ botaonao.grid(column=2, row=1, padx=20, pady=10)
 respostasardinha = Label(janela, text="")
 respostasardinha.grid(column=1, row=2)
 
-sardinhafoto = ImageTk.PhotoImage(Image.open("sardinha.jpg"))
+sardinhafoto = ImageTk.PhotoImage(Image.open(".\sardinha.jpg"))
 imagemsardinha = Label(janela,image= sardinhafoto) 
 imagemsardinha.grid(column=1 ,row=3)
 
