@@ -1,13 +1,13 @@
 # Exercício 5 - Impostos
-#O programa deve ler o valor total da manutenção de um veículo (valor_total)
-#O programa deve ler o percentual de impostos de serviços (imp_serv)
-#O programa deve ler o percentual de impostos de produtos (imp_prod)
+#O programa deve ler o valor total da manutenção de um veículo
+#O programa deve ler o percentual de impostos de serviços 
+#O programa deve ler o percentual de impostos de produtos 
 #O programa deve imprimir o total a ser pago nos dois impostos, bem como o valor que sobra depois de descontado os impostos. 
 
 valortotal = float(input("Informe o valor total da manutenção do seu veículo: "))
 
 impServ = float(input("Informe o percentual de impostos de serviços: "))
-impProd = 100 - impServ
+impProd = float(input("Informe o percentual de impostos de produtos: "))
 
 servTotal = valortotal * (impServ/100)
 prodTotal = valortotal * (impProd/100)
